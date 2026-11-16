@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-30T07:22:32.219545379Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-11-16T13:50:34.851226088Z",
     "templateType": "trip_a",
     "propertyId": "10465587-6bd9-4969-8751-7fb225c96398",
     "homepageId": "01a18b73-f694-745a-92f6-634ae770a7bb"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 연락 필수\n※ 최대 인원 초과 불가",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 연락 필수\n※ 최대 인원 초과 불가\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 99,999원, 아동 1인 99,999원, 유아 1인 99,999원\n(1박기준/현장결제)\n- 기준 인원 초과 입실이 불가합니다.\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원 (1박기준/현장결제)\n- 신청 시간: 18:00~20:00\n- 이용 시간: 18:00~22:00\n※ 우천 시에는 공동바베큐장만 이용가능\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원 (1박기준/현장결제)\n- 신청 시간: 18:00~20:00\n- 이용 시간: 18:00~22:00\n- 우천 시: 이용 불가\n- 동계 시: 이용 가능\n※ 여름시즌 폭염으로 인해 2층 개별바베큐 이용불가 (공동바베큐장 이용가능)\n※ 우천 시에는 공동바베큐장만 이용가능\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- OTT 이용 불가\n- 상비약 구비\n[주변광광지]\n- 경포호 바로 앞\n- 경포해변 차량 4분, 도보 20분\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 총 7대 주차 가능\n- 전기차 충전기 이용 불가",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 사전 연락 필수\n※ 최대 인원 초과 불가\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 기준 인원 초과 입실이 불가합니다.\n\n[공용바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원 (1박기준/현장결제)\n- 신청 시간: 18:00~20:00\n- 이용 시간: 18:00~22:00\n※ 우천 시에는 공동바베큐장만 이용가능\n\n[개별바베큐]\n- 이용 객실: 전객실\n- 바베큐 형태: 숯불\n- 이용 요금: 2인 기준 20,000원 (1박기준/현장결제)\n- 신청 시간: 18:00~20:00\n- 이용 시간: 18:00~22:00\n- 우천 시: 이용 불가\n- 동계 시: 이용 가능\n※ 여름시즌 폭염으로 인해 2층 개별바베큐 이용불가 (공동바베큐장 이용가능)\n※ 우천 시에는 공동바베큐장만 이용가능\n\n[편의 및 주변 시설]\n- 엘레베이터 미보유\n- OTT 이용 불가\n- 상비약 구비\n[주변광광지]\n- 경포호 바로 앞\n- 경포해변 차량 4분, 도보 20분\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 총 7대 주차 가능\n- 전기차 충전기 이용 불가",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
@@ -288,7 +288,7 @@
           {
             "id": "5c9391c2-688b-4198-820d-f6e9c82331cd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/tYw4i1RTUHZl.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -298,7 +298,7 @@
           {
             "id": "6d2eeb48-023d-4cc6-a916-d0a8a11c337f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/OcQW8Dz6rMw3.jpg",
-            "sortOrder": 0,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -306,7 +306,7 @@
           {
             "id": "278f87f6-27a9-44fd-98f5-060c9e72c416",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/J4ayjNzVDFBw.jpg",
-            "sortOrder": 1,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -314,7 +314,7 @@
           {
             "id": "80690fc6-1117-4db8-8f95-789027bffd3c",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/vhKkWPc1QeOs.jpg",
-            "sortOrder": 2,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -322,7 +322,7 @@
           {
             "id": "d429e05e-c4c3-459b-888e-86e4f41287de",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/L8UBxVmTlnA7.jpg",
-            "sortOrder": 3,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -330,7 +330,7 @@
           {
             "id": "2156bfc8-72f4-4b62-a5a7-e1939c9431dd",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/VPlj2ubX0Jqc.jpg",
-            "sortOrder": 4,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -338,7 +338,7 @@
           {
             "id": "dab53a22-9006-4a08-a72c-789bb14ffb00",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/gnZRLJeFIdPA.jpg",
-            "sortOrder": 5,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -346,7 +346,7 @@
           {
             "id": "a3f04869-3b8d-4705-92df-798037a36d5d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/EKfgSbINYpxi.jpg",
-            "sortOrder": 6,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -354,7 +354,7 @@
           {
             "id": "6bb5bd76-eaf7-4119-9ba1-7ecd25725429",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/21/JjRW269DrCHZ.jpg",
-            "sortOrder": 7,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -2522,7 +2522,7 @@
             {
               "id": "01a18bad-3ba9-752c-b65d-c7d8a0668a4c",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a18b73-f694-745a-92f6-634ae770a7bb/roomtype_thumbnail/1793344743245-ot0ucb6b6z.jpg",
-              "sortOrder": 5,
+              "sortOrder": 0,
               "description": "",
               "isSelected": true,
               "blockId": "e15ff339-d541-4226-859d-4dcd2e16ceac",
@@ -2728,7 +2728,7 @@
             {
               "id": "01a18b74-52c1-7d29-aece-5a6a7d4b7fa5",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a18b73-f694-745a-92f6-634ae770a7bb/roomtype_thumbnail/1793341011471-o712ltyyii.webp",
-              "sortOrder": 0,
+              "sortOrder": 1,
               "description": "",
               "isSelected": true,
               "blockId": "e93770f0-a07c-411e-a982-39c9fe344547",
@@ -2934,7 +2934,7 @@
             {
               "id": "01a18b74-54a4-7ef2-bd10-c515d0650c65",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a18b73-f694-745a-92f6-634ae770a7bb/roomtype_thumbnail/1793341013007-yprml045z8.webp",
-              "sortOrder": 1,
+              "sortOrder": 2,
               "description": "",
               "isSelected": true,
               "blockId": "082fcc4e-f4a6-42e7-8741-9cba7ae68a7d",
@@ -3158,7 +3158,7 @@
             {
               "id": "01a18b74-4b64-7cd0-a804-c715a7597e7b",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a18b73-f694-745a-92f6-634ae770a7bb/roomtype_thumbnail/1793341003084-a94zrlcsuo.webp",
-              "sortOrder": 2,
+              "sortOrder": 3,
               "description": "",
               "isSelected": true,
               "blockId": "221935d1-2a61-4820-a70e-78ad3f1fdbd9",
@@ -3382,7 +3382,7 @@
             {
               "id": "01a18b74-4cf2-7f08-8dc2-b5e779251f01",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a18b73-f694-745a-92f6-634ae770a7bb/roomtype_thumbnail/1793341005013-6rg8kyzyo9.webp",
-              "sortOrder": 3,
+              "sortOrder": 4,
               "description": "",
               "isSelected": true,
               "blockId": "c27eb410-a9f0-4bff-8109-5a03e71cb9b1",
@@ -3615,7 +3615,7 @@
             {
               "id": "01a18b74-4ed4-764e-8fc5-5073bf979490",
               "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a18b73-f694-745a-92f6-634ae770a7bb/roomtype_thumbnail/1793341006821-9g4knkyb3y.webp",
-              "sortOrder": 4,
+              "sortOrder": 5,
               "description": "",
               "isSelected": true,
               "blockId": "79bbccdf-758d-4f32-b29a-70e988890048",
@@ -3852,7 +3852,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
